@@ -14,7 +14,7 @@ That syntax is mainly based on Obsidian's Markdown flavour with [[wikilinks]], Y
 We sincerely hope that the different repositories here will attract contributors interested by the ressources willing to contribute and make this biblical and theological database grow in popularity and quality over time by adding new ressources, correcting mistakes etc... 
 
 ### What you'll find here
-* "Obsidian-ready" Markdown Bible or theological works, free of rights
+* "Obsidian-ready" [Markdown Bible or theological works](https://github.com/AnthropologieBiblique/MarkdownTexts), free of rights
 * Open source scripts that were used to extract these ressources
 * Bible study oriented Obsidian plugins or templater scripts
 * Documentation or tutorials on how to use the above ressources for your exegesis or theological research
